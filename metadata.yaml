@@ -1,0 +1,26 @@
+_repo: Vandrad-the-Viking-Or-The-Feud-and-the-Spell_5120
+creator:
+  author:
+    agent_name: Clouston, J. Storer (Joseph Storer)
+    alias: Clouston, Joseph Storer
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '1704'
+    url: http://www.gutenberg.org/2009/agents/1704
+    wikipedia: http://en.wikipedia.org/wiki/Storer_Clouston
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5120'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norway -- Juvenile fiction'
+- !lcc 'PR'
+- !lcsh 'Vikings -- Juvenile fiction'
+- !lcc 'PZ'
+title: Vandrad the Viking; Or, The Feud and the Spell
+url: http://www.gutenberg.org/ebooks/5120
