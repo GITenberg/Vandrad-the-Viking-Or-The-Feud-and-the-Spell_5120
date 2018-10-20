@@ -1,5 +1,5 @@
 _repo: Vandrad-the-Viking-Or-The-Feud-and-the-Spell_5120
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Vikings -- Juvenile fiction'
 - !lcc 'PZ'
+- GITenberg
 title: Vandrad the Viking; Or, The Feud and the Spell
 url: http://www.gutenberg.org/ebooks/5120
